@@ -3,7 +3,7 @@ A simple Python GUI to instantly share files over local Wi-Fi. Built with Tkinte
 
 # 📂 QuickFile Transfer
 
-A simple, lightweight, and modern GUI application to share files across your local network (Wi-Fi) without using the internet, cables, or cloud services.
+A simple and modern GUI application to share files across your local network (Wi-Fi) without using the internet, cables, or cloud services.
 
 Built entirely using Python's standard library. **No `pip install` required!**
 
